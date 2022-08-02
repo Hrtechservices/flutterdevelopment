@@ -1,4 +1,6 @@
 # flutterdevelopment
+Why is Flutter Popularly Used for Cross-Platform App Development?
+
 Flutter is the Future of Cross-Platform App Development Framework.
 The Google Flutter SDK is a free and open-source tool for creating cross-platform mobile applications.
 Android and iOS are the two most popular platforms for creating mobile applications. There’s a requirement for different kinds of code to develop applications on each platform. Cross-platform development is used since separate coding has become an issue for many Mobile app development organizations. The days when developers had to work twice as hard to produce an app for app development platforms are long gone. Thanks to cross-platform frameworks, it is now possible to create an app using only one time of writing.
